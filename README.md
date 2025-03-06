@@ -2,6 +2,11 @@
 
 This is a simple digital clock with an alarm functionality, built with HTML, CSS, and JavaScript. The clock displays the current time and allows users to set an alarm time.
 
+## Live Demo
+
+You can view the live version of the project at the following link:  
+[Live Repository Link](https://ousamaalzhouri.github.io/alarm-clock-web/)
+
 ## Features
 
 - **Digital Clock**: Displays the current time in a `HH:MM` format.
